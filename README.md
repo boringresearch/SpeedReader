@@ -4,7 +4,7 @@ Try to become a speed reader, I would like to start with [this](https://www.yout
 ## My record
 | speed       | date     |
 | ----------- | -------- |
-| 400 per/min | 20220529 |
+| 400 per/min | 20220529 - 1st test |
 
 
 ## Note
